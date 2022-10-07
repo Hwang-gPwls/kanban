@@ -1,7 +1,9 @@
 export const theme = {
-  bgColor: "#FEFBE7",
-  boardColor: "#A0BCC2",
+  bgColor: "#F5EFE6",
+  boardColor: "#AEBDCA",
   cardColor: "white",
+  isDraggingColor: "rgba(246, 215, 167, 0.7)",
+  isDraggingFromColor: "rgba(232, 223, 202, 0.7)",
 
   color: {
     white: "#fff",
